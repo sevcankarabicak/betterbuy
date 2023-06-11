@@ -28,10 +28,10 @@ Uygulamasını yapacağımız ürün, artan maliyetler ve ürün çeşitliğinin
 
 ## Ürün Özellikleri
 
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve yönetici tarafından teklifin kabul edilmesi.
-- Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve toplayıcı çağırma hizmeti.
-- Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
+- Gelir ve giderlerin girişi sağlandıktan sonra aylık ve yıllık analizler yapması.
+- Girilen ürünlerin kalori ve besin değerleri hakkında bilgi vermesi
+- Girilen ürünlerin geri dönüşümünün yapılabilmesi için uyarılar vermesi
+- Geri dönüşüm ekranında yapılan geri dönüştürme işlemi hakkında bilgi verilmesi
 
 ## Hedef Kitle
 
