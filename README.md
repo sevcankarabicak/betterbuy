@@ -62,12 +62,12 @@ Uygulamasını yapacağımız ürün, artan maliyetler ve ürün çeşitliğinin
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ya da Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 - [Sprint 1 Daily Scrum Chats](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**:
+- Sprint board screenshotları: 
 ![Backlog 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/1.jpeg)
 
 -**Ürün Durumu**:
 ![Screenshot 1](https://github.com/sevcankarabicak/betterbuy/blob/e21ff0295c1f4f703118e8e15b78e6193d0e6ff0/ProjectManagement/Sprint1Documents/2.jpeg)
-![Video](https://github.com/sevcankarabicak/betterbuy/blob/e21ff0295c1f4f703118e8e15b78e6193d0e6ff0/ProjectManagement/Sprint1Documents/video.mp4)
 
 - **Sprint Review**: 
 Alınan kararlar: Ürünün Uİ kısmının tasarımı bitirilmiş. Home Page sayfası oluşturulmuş. Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmıştır.Firebase için araştırmalar yapılmıştır. Sprint Review katılımcıları: Sevcan Karabıçak, Merve Sağlam, Esra Küçükbaş, Ömer Can Bayram.
