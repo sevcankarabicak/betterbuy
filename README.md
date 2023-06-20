@@ -17,9 +17,6 @@ Takım Flutter 70
 
 ## Product Backlog URL
 
-[Flutter Team 70 Monday Backlog Board](https://merves-team-gang.monday.com/boards/1207361530/views/4037349)
-
--düzeltildi-
 [Flutter Team 70 Monday Backlog Board](https://miro.com/app/board/uXjVM9yMjks=/)
 
 ## Ürün Açıklaması
