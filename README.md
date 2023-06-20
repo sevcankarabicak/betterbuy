@@ -67,7 +67,7 @@ Uygulamasını yapacağımız ürün, artan maliyetler ve ürün çeşitliğinin
 ![Backlog 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/1.jpeg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/1.jpeg)
+  ![Screenshot 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/2.jpeg)
   ![Screenshot 2](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/video.mp4)
 
 - **Sprint Review**: 
