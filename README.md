@@ -51,15 +51,15 @@ Uygulamasını yapacağımız ürün, artan maliyetler ve ürün çeşitliğinin
 # Sprint 1
 
 -**Sprint Notları**
+Ürünle alakalı konuya karar verildikten sonra hızlı bir şekilde ürünün Uİ tasarımı yapılmış ve sayfa özellikleri belirlenmiştir. Ekip arkadaşlarıyla beraber ürünün geliştirmeleri hakkındaki istişareden sonra değiştirelecek olan alanlara karar verilmiştir. Ürünün Home Page kısmı tamamlanarak kodu yazılmıştır. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 40 Puan
 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 40 puanlık kısmı halledilmesi gerektiğine karar verilmiştir. 
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ya da Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
