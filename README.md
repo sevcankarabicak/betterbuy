@@ -61,6 +61,14 @@ Uygulamasını yapacağımız ürün, artan maliyetler ve ürün çeşitliğinin
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ya da Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
+-**Sprint board update**: 
+Sprint board screenshotları:
+
+
+-**Ürün Durumu**:
+
+
+
 - **Sprint Review**: 
 Alınan kararlar: Ürünün Uİ kısmının tasarımı bitirilmiş. Home Page sayfası oluşturulmuş. Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmıştır.Firebase için araştırmalar yapılmıştır. Sprint Review katılımcıları: Sevcan Karabıçak, Merve Sağlam, Esra Küçükbaş, Ömer Can Bayram.
 
