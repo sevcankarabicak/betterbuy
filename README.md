@@ -18,6 +18,9 @@ Takım Flutter 70
 
 [Flutter Team 70 Monday Backlog Board](https://merves-team-gang.monday.com/boards/1207361530/views/4037349)
 
+-düzeltildi-
+[Flutter Team 70 Monday Backlog Board](https://miro.com/app/board/uXjVM9yMjks=/)
+
 ## Ürün Açıklaması
 
 Uygulamasını yapacağımız ürün, artan maliyetler ve ürün çeşitliğinin oluşturduğu karışıklıkları çözmeyi hedefleyemektedir. Bu uygulama ile kişisel finans takibinizi yapabilir, alınan ürünlerin kalori değerlerini görebilir ve ardından geri dönüşümünü sağlayarak doğaya katkı sağlayabilirsiniz. Öncelikle gittikçe artan tüketim çılgınlığından dolayı harcamalarımızın kontrol edilmesi gerektiğini düşünüyoruz. Bu sebeple gelir ve gider değerlerini girebileceğiniz bir alan açmayı hedefledik.  Ardından tükettiğimiz besinlerin geri dönüşüm ile sürdürülebilir kullanım alanlarını kullanıcıya sunuyoruz. Özellikle bu kısımda organik ürünlerin geri dönüşümü hususunda katkı sağlamak istedik. Doğaya tamamen katkıda bulunan meyve sebzelerin bir kompost haline getirilerek ayrıştırılması gübreleme olarak kullanılabilir. Uygulamamız ile  yapılan alışverişler; hem besin değerlerini hem de fiyat analizlerini karşılaştırabileceğiz bu sayede  ihtiyaçlarımızım dışında olan ürünleri ve ya sağlığımızı negatif yönde etkileyecek besinleri tesbit edebileceğiz. Tüm bunlara ek olarak ise tercih ettiğimiz takdirde geri dönüşüme fayda sağlayacağız. 
@@ -41,8 +44,13 @@ Uygulamasını yapacağımız ürün, artan maliyetler ve ürün çeşitliğinin
 - Bireysel olarak geri dönüşüme katkı sağlamak isteyenler
 - Geri dönüşüm merkezleri
 ---
+# Juriye Not
+
 
 # Sprint 1
+
+-**Sprint Notları**
+
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
