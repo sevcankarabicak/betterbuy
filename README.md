@@ -9,6 +9,7 @@ Takım Flutter 70
 - Sevcan Karabıçak: Product Owner/ Developer
 - Ömer Can Bayram: Developer
 - Esra Küçükbaş: Developer
+- Teoman Veske: Devam Sağlamıyor
 
 ## Ürün İsmi
 
