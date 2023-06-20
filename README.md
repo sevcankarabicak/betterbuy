@@ -68,6 +68,8 @@ Uygulamasını yapacağımız ürün, artan maliyetler ve ürün çeşitliğinin
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/3.png)
+   ![Screenshot 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/4.jpeg)
+
 - **Sprint Review**: 
 Alınan kararlar: Ürünün Uİ kısmının tasarımı bitirilmiş. Home Page sayfası oluşturulmuş. Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmıştır.Firebase için araştırmalar yapılmıştır. Sprint Review katılımcıları: Sevcan Karabıçak, Merve Sağlam, Esra Küçükbaş, Ömer Can Bayram.
 
