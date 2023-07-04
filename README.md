@@ -84,6 +84,7 @@ Alınan kararlar: Ürünün Uİ kısmının tasarımı bitirilmiş. Home Page sa
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
 -**Daily Scrum**: Daily Scrum toplantıları bayram nedeniyle gerçekleştirilememiştir. Fakat grup üyeleri birbirleriyle ile iletişime devam etmiştir.
+-[Sprint 1 Daily Scrum Chats] (https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint2Documents/Resim1.png)
 
 -**Sprint board update**:
 - Sprint board screenshotları:
