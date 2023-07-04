@@ -75,4 +75,18 @@ Alınan kararlar: Ürünün Uİ kısmının tasarımı bitirilmiş. Home Page sa
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
---
+- **Product Backlog URL:**
+  
+[Flutter Team 70 Monday Backlog Board](https://miro.com/app/board/uXjVM9yMjks=/)
+
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
+
+-**Daily Scrum**: Daily Scrum toplantıları bayram nedeniyle gerçekleştirilememiştir.
+
+-**Sprint board update**:
+- Sprint board screenshotları:
+  ![Screenshot 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/3.png)
+   ![Screenshot 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint1Documents/4.jpeg)
+
