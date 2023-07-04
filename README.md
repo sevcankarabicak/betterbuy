@@ -90,6 +90,8 @@ Alınan kararlar: Ürünün Uİ kısmının tasarımı bitirilmiş. Home Page sa
 
 -**Sprint board update**:
 - Sprint board screenshotları:
+
+- 
    ![Screenshot 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint2Documents/giri%C5%9F%20ekran%C4%B1.jpeg)
   ![Video 1] (https://youtube.com/shorts/uH8X3lohTN0)
   
