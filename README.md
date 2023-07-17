@@ -93,5 +93,16 @@ Alınan kararlar: Ürünün Uİ kısmının tasarımı bitirilmiş. Home Page sa
 - 
    ![Screenshot 1](https://github.com/sevcankarabicak/betterbuy/blob/main/ProjectManagement/Sprint2Documents/giri%C5%9F%20ekran%C4%B1.jpeg)
   ![Video 1] (https://youtube.com/shorts/uH8X3lohTN0)
+
+  # Sprint 3
+   **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
+
+  
+  -**Daily Scrum**:EcoShop uygulamamız yetişmediği için bitmiş bir proje sunabilmek için ToDo app yapmaya çalıştık
+
+-**BAĞLANTILAR**:
+    
+https://youtu.be/qJ2ovc6dmlA
+  
   
 >>>>>>> origin/main
