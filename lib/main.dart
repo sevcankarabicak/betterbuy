@@ -7,6 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "ToDo App",
+      debugShowCheckedModeBanner: false,
       home: HomePage(),
     );
   }
@@ -17,7 +18,11 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("ToDo App"),
+        title: Center(
+          child:
+            Text("ToDo App"),
+        ),
+        backgroundColor: Colors.orange,
       ),
       body: TodoPage(),
     );
@@ -66,9 +71,15 @@ class _TodoState extends State<TodoPage> {
           ElevatedButton(
             onPressed: addList,
             child: Text("Ekle"),
+            style: ElevatedButton.styleFrom(
+              primary: Colors.orange, // Background color
+            ),
           ),
           ElevatedButton(
             onPressed: removeList,
+            style: ElevatedButton.styleFrom(
+              primary: Colors.orange, // Background color
+            ),
             child: Text("Çıkar"),
           ),
         ],
