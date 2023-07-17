@@ -102,7 +102,7 @@ Alınan kararlar: Ürünün Uİ kısmının tasarımı bitirilmiş. Home Page sa
 
 -**BAĞLANTILAR**:
     
-    video=https://youtube.com/shorts/qJ2ovc6dmlA?feature=share
+https://youtu.be/qJ2ovc6dmlA
   
   
 >>>>>>> origin/main
