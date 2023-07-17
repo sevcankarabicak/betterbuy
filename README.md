@@ -101,7 +101,7 @@ Alınan kararlar: Ürünün Uİ kısmının tasarımı bitirilmiş. Home Page sa
   -**Daily Scrum**:EcoShop uygulamamız yetişmediği için bitmiş bir proje sunabilmek için ToDo app yapmaya çalıştık
 
 -**BAĞLANTILAR**:
-    https://github.com/sevcankarabicak/betterbuy/blob/main/lib/main.dart
+    
     video=https://youtube.com/shorts/qJ2ovc6dmlA?feature=share
   
   
