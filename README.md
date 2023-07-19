@@ -1,3 +1,5 @@
+# Juriye Not 
+3.sprintte ürünümüzü (ecoShop) maalesef yetiştiremediğimiz için bir proje teslim edebilmek adına ürün değişikliğine giderek toApp yapmaya karar verdik.
 # todo
 
 A new Flutter project.
